@@ -1,1 +1,1 @@
-worker: web index
+worker: php
